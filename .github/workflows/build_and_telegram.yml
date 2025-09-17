@@ -1,4 +1,4 @@
-name: Build and Send APK to Telegram
+name: Build and Send APK to Telegramm
 
 on:
   push:
