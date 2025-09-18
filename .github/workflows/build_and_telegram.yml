@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TELEGRAM_BOT_TOKEN: "7704220520:AAEI_ouYgKUdt52-ec9JJDjdo44pme781Ls"
-      TELEGRAM_CHAT_ID: "2331897065"
+      TELEGRAM_CHAT_ID: "-1002331897065"
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
